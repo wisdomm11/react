@@ -8,6 +8,7 @@ import Movie from "./components/Movie"
 import { dumy } from "./Dumy"
 import "./App.css"
 import Register from "./components/Register"
+import Register2 from "./components/Register2"
 
 function App() {
 
@@ -38,6 +39,8 @@ function App() {
         </div>
 
         <Register></Register>
+        <hr /> <p></p>
+        <Register2></Register2>
         
         
     </>
